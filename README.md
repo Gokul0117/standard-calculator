@@ -99,9 +99,13 @@ Publish the website in the given URL.
     </body>
 </html>
 ```
+### Server Output:
+![Screenshot 2023-05-21 122530](https://github.com/Gokul0117/standard-calculator/assets/121165938/e1c7f4c3-3bd2-4184-86e2-f85a54fabd04)
+
 
 ## OUTPUT:
-![Screenshot 2023-05-18 094135](https://github.com/Gokul0117/standard-calculator/assets/121165938/c2b0ad89-d773-4383-8ddb-1772bf836f7a)
+![Screenshot 2023-05-21 122701](https://github.com/Gokul0117/standard-calculator/assets/121165938/9b090cfe-557c-4f4d-9dfb-66e73e5e9a83)
+
 
 
 
